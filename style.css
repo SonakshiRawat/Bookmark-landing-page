@@ -342,7 +342,7 @@ nav li:hover {
   text-align: left;
 }
 .hr {
-  width: 800px;
+  width: 60%;
 }
 .question:hover {
   color: hsl(0, 94%, 66%);
